@@ -1,1 +1,2 @@
-print("Hello! Git and Docker integration is working!")
+print("Hello! Version 2 is running in Docker!")
+print("Application updated successfully!")
